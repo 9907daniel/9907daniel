@@ -14,9 +14,9 @@ JeongHooShin = {
   internships: "JG Corporation", "Rapyuta Robotics",
   hobbies: "Begineer Photographer", "Leetcode(?)", "Netflix"
   Experience_with: {
-                        Languages: "Python", "HTML", "CSS", "PHP"
-                        Framework/Libraries: "Django", "Django REST framework", "REST APIs", "OpenCV"
-                        Tools: "Linux", "Postman", "AWS", "Docker", "Git", "Raspberry Pi", "Grafana", "Elasticsearch", "HTTP requests"
+                        Languages: "Python", "HTML", "CSS", "Java"
+                        Framework/Libraries: "Django", "Django REST framework", "REST APIs", "OpenCV", "Spring Boot"
+                        Tools: "Linux", "Postman", "AWS", "Docker", "Git", "Raspberry Pi", "Grafana", "Google Cloud Platform", "HTTP requests"
                       },
 }
 ```
