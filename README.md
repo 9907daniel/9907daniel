@@ -12,7 +12,7 @@
 JeongHooShin = {
   lived_in: "Mexico", "Turkey",  "Korea", "Japan"
   internships: "JG Corporation", "Rapyuta Robotics",
-  hobbies: "Begineer Photographer", "Leetcode(?)", "Netflix"
+  hobbies: "Beginner Photographer", "Leetcode(?)", "Netflix"
   Experience_with: {
                         Languages: "Python", "HTML", "CSS", "Java"
                         Framework/Libraries: "Django", "Django REST framework", "REST APIs", "OpenCV", "Spring Boot"
