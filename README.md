@@ -15,8 +15,8 @@ JeongHooShin = {
   hobbies: "Beginner Photographer", "Leetcode(?)", "Netflix"
   Experience_with: {
                         Languages: "Python", "HTML", "CSS", "Java"
-                        Framework/Libraries: "Django", "Django REST framework", "REST APIs", "OpenCV", "Spring Boot"
-                        Tools: "Linux", "Postman", "AWS", "Docker", "Git", "Raspberry Pi", "Grafana", "Google Cloud Platform", "HTTP requests"
+                        Framework/Libraries: "Django", "Django REST framework", "Spring Framework", "Spring Boot"
+                        Tools: "Linux", "Postman", "AWS", "Docker", "Git", "Raspberry Pi", "Grafana", "Google Cloud Platform", "HTTP requests", "REST APIs"
                       },
 }
 ```
