@@ -12,11 +12,11 @@
 JeongHooShin = {
   lived_in: "Mexico", "Turkey",  "Korea", "Japan"
   internships: "JG Corporation", "Rapyuta Robotics",
-  hobbies: "Beginner Photographer", "Leetcode(?)", "Netflix"
+  hobbies: "Beginner Photographer", "Algorithms(?)", "Netflix"
   Experience_with: {
                         Languages: "Python", "HTML", "CSS", "Java"
-                        Framework/Libraries: "Django", "Django REST framework", "Spring Framework", "Spring Boot"
-                        Tools: "Linux", "Postman", "AWS", "Docker", "Git", "Raspberry Pi", "Grafana", "Google Cloud Platform", "HTTP requests", "REST APIs"
+                        Framework/Libraries: "Django", "Django REST framework", "Spring Boot"
+                        Tools: "Linux", "Postman", "AWS", "Docker", "Git", "Google Cloud Platform", "HTTP requests", "REST APIs"
                       },
 }
 ```
