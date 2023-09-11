@@ -1,6 +1,6 @@
 <h2> Hi there 👋 <br>My Name is Jeong Hoo Shin, but I also go by Daniel!</h2>
 <img align='right' src="https://i.ibb.co/NnmTtk2/IMG-9453.jpg" width="230" style="border-radius:50%">
-<p><em>CSE major @ <a href="https://www.waseda.jp/top/en/">Waseda University</a><img src="https://media1.giphy.com/media/yJiZ3DRDM2sgLwfFoJ/200w.gif" width="30">
+<p><em>CSE major @ <a href="https://www.waseda.jp/top/en/">Waseda University</a>
 
 </em></p>
 
