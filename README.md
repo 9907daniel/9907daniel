@@ -1,10 +1,6 @@
 <h2> Hi there 👋 <br>My Name is Jeong Hoo Shin, but I also go by Daniel!</h2>
-<p><em>CSE major @ <a href="https://www.waseda.jp/top/en/">Waseda University</a><img src="https://media1.giphy.com/media/yJiZ3DRDM2sgLwfFoJ/200w.gif" width="30">
 
 </em></p>
-
-[![Linkedin: JeongHooShin](https://img.shields.io/badge/-JeongHooShin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/jeong-hoo-shin-572951227/)
-[![GitHub Jeong Hoo SHin](https://img.shields.io/github/followers/9907daniel?label=follow&style=social)](https://github.com/9907daniel)
 <br> 📫 daniel.9907@hotmail.com
 
 ```python
