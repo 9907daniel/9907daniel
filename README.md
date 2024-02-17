@@ -20,4 +20,4 @@ JeongHooShin = {
 <em><b>I am a fast learner</b>  who sought solutions by appreciating diverse perspectives and learning to adapt to new challenges. <br><b>Ultimately</b>, my goal as a developer is to contribute in bringing the world closer together through technology. </em><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Rotating_earth_animated_transparent.gif/220px-Rotating_earth_animated_transparent.gif" width="60"> 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=9907daniel)](https://www.acmicpc.net/user/9907daniel) ![JeongHoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=9907daniel&show_icons=true&theme=radical) 
+![JeongHoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=9907daniel&show_icons=true&theme=radical) 
